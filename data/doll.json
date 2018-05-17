@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "name": "M1873",
+  "codeName": "M1873",
   "rank": 4,
   "type": "hg",
   "illust": "Saru",
@@ -37,11 +37,11 @@
       "IC": 6
     }
   },
-  "krName": "콜트 리볼버",
+  "name": "콜트 리볼버",
   "grow": 130
 }, {
   "id": 2,
-  "name": "M1911",
+  "codeName": "M1911",
   "rank": 2,
   "type": "hg",
   "illust": "spirtie",
@@ -79,11 +79,11 @@
       "IC": 1
     }
   },
-  "krName": "M1911",
+  "name": "M1911",
   "grow": 120
 }, {
   "id": 3,
-  "name": "M9",
+  "codeName": "M9",
   "rank": 3,
   "type": "hg",
   "illust": "M.vv",
@@ -119,11 +119,11 @@
       "IC": 5
     }
   },
-  "krName": "M9",
+  "name": "M9",
   "grow": 110
 }, {
   "id": 5,
-  "name": "M1895",
+  "codeName": "M1895",
   "rank": 2,
   "type": "hg",
   "illust": "X布",
@@ -166,11 +166,11 @@
       "DR": [5, 6, 6, 6, 7, 7, 7, 8, 8, 8]
     }
   },
-  "krName": "나강 리볼버",
+  "name": "나강 리볼버",
   "grow": 130
 }, {
   "id": 6,
-  "name": "TT33",
+  "codeName": "TT33",
   "rank": 3,
   "type": "hg",
   "illust": "废人",
@@ -207,11 +207,11 @@
       "IC": 6
     }
   },
-  "krName": "토카레프",
+  "name": "토카레프",
   "grow": 105
 }, {
   "id": 7,
-  "name": "APS",
+  "codeName": "APS",
   "rank": 4,
   "type": "hg",
   "illust": "鳗鱼子",
@@ -248,11 +248,11 @@
       "IC": 6
     }
   },
-  "krName": "스테츠킨",
+  "name": "스테츠킨",
   "grow": 110
 }, {
   "id": 8,
-  "name": "PM",
+  "codeName": "PM",
   "rank": 3,
   "type": "hg",
   "illust": "河马",
@@ -289,11 +289,11 @@
       "IC": 6
     }
   },
-  "krName": "마카로프",
+  "name": "마카로프",
   "grow": 130
 }, {
   "id": 9,
-  "name": "P38",
+  "codeName": "P38",
   "rank": 2,
   "type": "hg",
   "illust": "とり",
@@ -331,11 +331,11 @@
       "IC": 3
     }
   },
-  "krName": "P38",
+  "name": "P38",
   "grow": 125
 }, {
   "id": 10,
-  "name": "PPK",
+  "codeName": "PPK",
   "rank": 2,
   "type": "hg",
   "illust": "堀森",
@@ -373,11 +373,11 @@
       "IC": 6
     }
   },
-  "krName": "PPK",
+  "name": "PPK",
   "grow": 125
 }, {
   "id": 11,
-  "name": "P08",
+  "codeName": "P08",
   "rank": 3,
   "type": "hg",
   "illust": "防弹乳牛",
@@ -420,11 +420,11 @@
       "DR": [5, 6, 6, 6, 7, 7, 7, 8, 8, 8]
     }
   },
-  "krName": "P08",
+  "name": "P08",
   "grow": 130
 }, {
   "id": 12,
-  "name": "C96",
+  "codeName": "C96",
   "rank": 3,
   "type": "hg",
   "illust": "林檎愛す",
@@ -462,11 +462,11 @@
       "IC": 3
     }
   },
-  "krName": "C96",
+  "name": "C96",
   "grow": 100
 }, {
   "id": 13,
-  "name": "92type",
+  "codeName": "92type",
   "rank": 3,
   "type": "hg",
   "illust": "莲子",
@@ -504,11 +504,11 @@
       "IC": 6
     }
   },
-  "krName": "92식",
+  "name": "92식",
   "grow": 110
 }, {
   "id": 14,
-  "name": "357",
+  "codeName": "357",
   "rank": 3,
   "type": "hg",
   "illust": "spirtie",
@@ -545,11 +545,11 @@
       "IC": 6
     }
   },
-  "krName": "아스트라 리볼버",
+  "name": "아스트라 리볼버",
   "grow": 120
 }, {
   "id": 15,
-  "name": "Glock17",
+  "codeName": "Glock17",
   "rank": 3,
   "type": "hg",
   "illust": "Rain Lan",
@@ -586,11 +586,11 @@
       "IC": 6
     }
   },
-  "krName": "글록17",
+  "name": "글록17",
   "grow": 110
 }, {
   "id": 16,
-  "name": "M1928A1",
+  "codeName": "M1928A1",
   "rank": 5,
   "type": "smg",
   "illust": "NS",
@@ -626,11 +626,11 @@
       "IC": 8
     }
   },
-  "krName": "톰슨",
+  "name": "톰슨",
   "grow": 110
 }, {
   "id": 17,
-  "name": "M3",
+  "codeName": "M3",
   "rank": 2,
   "type": "smg",
   "illust": "november",
@@ -666,11 +666,11 @@
       "IC": 3
     }
   },
-  "krName": "M3",
+  "name": "M3",
   "grow": 115
 }, {
   "id": 18,
-  "name": "MAC10",
+  "codeName": "MAC10",
   "rank": 3,
   "type": "smg",
   "illust": "SA",
@@ -707,11 +707,11 @@
       "IC": 1
     }
   },
-  "krName": "MAC-10",
+  "name": "MAC-10",
   "grow": 110
 }, {
   "id": 19,
-  "name": "FMG9",
+  "codeName": "FMG9",
   "rank": 3,
   "type": "smg",
   "illust": "NorthAbyssor",
@@ -748,11 +748,11 @@
       "IC": 6
     }
   },
-  "krName": "FMG-9",
+  "name": "FMG-9",
   "grow": 115
 }, {
   "id": 20,
-  "name": "Vector",
+  "codeName": "Vector",
   "rank": 5,
   "type": "smg",
   "illust": "SA",
@@ -789,11 +789,11 @@
       "IC": 3
     }
   },
-  "krName": "Vector",
+  "name": "Vector",
   "grow": 105
 }, {
   "id": 21,
-  "name": "PPsh41",
+  "codeName": "PPsh41",
   "rank": 2,
   "type": "smg",
   "illust": "和茶",
@@ -829,11 +829,11 @@
       "IC": 3
     }
   },
-  "krName": "PPsh-41",
+  "name": "PPsh-41",
   "grow": 105
 }, {
   "id": 22,
-  "name": "PPS43",
+  "codeName": "PPS43",
   "rank": 3,
   "type": "smg",
   "illust": "两卡车",
@@ -868,11 +868,11 @@
       "IC": 3
     }
   },
-  "krName": "PPS-43",
+  "name": "PPS-43",
   "grow": 105
 }, {
   "id": 23,
-  "name": "PP90",
+  "codeName": "PP90",
   "rank": 4,
   "type": "smg",
   "illust": "NIXOO",
@@ -910,11 +910,11 @@
       "IC": 4
     }
   },
-  "krName": "PP-90",
+  "name": "PP-90",
   "grow": 120
 }, {
   "id": 24,
-  "name": "PP2000",
+  "codeName": "PP2000",
   "rank": 2,
   "type": "smg",
   "illust": "NoriZC",
@@ -950,11 +950,11 @@
       "IC": 3
     }
   },
-  "krName": "PP-2000",
+  "name": "PP-2000",
   "grow": 100
 }, {
   "id": 25,
-  "name": "MP40",
+  "codeName": "MP40",
   "rank": 2,
   "type": "smg",
   "illust": "废人",
@@ -992,11 +992,11 @@
       "IC": 3
     }
   },
-  "krName": "MP40",
+  "name": "MP40",
   "grow": 115
 }, {
   "id": 26,
-  "name": "MP5",
+  "codeName": "MP5",
   "rank": 4,
   "type": "smg",
   "illust": "Saru",
@@ -1032,11 +1032,11 @@
       "IC": 8
     }
   },
-  "krName": "MP5",
+  "name": "MP5",
   "grow": 105
 }, {
   "id": 27,
-  "name": "VZ61",
+  "codeName": "VZ61",
   "rank": 3,
   "type": "smg",
   "illust": "SA",
@@ -1074,11 +1074,11 @@
       "IC": 3
     }
   },
-  "krName": "스콜피온",
+  "name": "스콜피온",
   "grow": 115
 }, {
   "id": 28,
-  "name": "MP7",
+  "codeName": "MP7",
   "rank": 5,
   "type": "smg",
   "illust": "戏言咸咸",
@@ -1118,11 +1118,11 @@
       "IC": 6
     }
   },
-  "krName": "MP7",
+  "name": "MP7",
   "grow": 100
 }, {
   "id": 29,
-  "name": "StenMK2",
+  "codeName": "StenMK2",
   "rank": 3,
   "type": "smg",
   "illust": "真名",
@@ -1158,11 +1158,11 @@
       "IC": 3
     }
   },
-  "krName": "스텐MkII",
+  "name": "스텐MkII",
   "grow": 125
 }, {
   "id": 31,
-  "name": "MAB38",
+  "codeName": "MAB38",
   "rank": 2,
   "type": "smg",
   "illust": "ALLENES",
@@ -1198,11 +1198,11 @@
       "IC": 5
     }
   },
-  "krName": "베레타 38형",
+  "name": "베레타 38형",
   "grow": 110
 }, {
   "id": 32,
-  "name": "MicroUZI",
+  "codeName": "MicroUZI",
   "rank": 3,
   "type": "smg",
   "illust": "死盖",
@@ -1239,11 +1239,11 @@
       "IC": 3
     }
   },
-  "krName": "마이크로 우지",
+  "name": "마이크로 우지",
   "grow": 115
 }, {
   "id": 33,
-  "name": "m45",
+  "codeName": "m45",
   "rank": 2,
   "type": "smg",
   "illust": "TAMAXI",
@@ -1281,11 +1281,11 @@
       "IC": 1
     }
   },
-  "krName": "m45",
+  "name": "m45",
   "grow": 105
 }, {
   "id": 34,
-  "name": "M1",
+  "codeName": "M1",
   "rank": 3,
   "type": "rf",
   "illust": "哈路卡",
@@ -1320,11 +1320,11 @@
       "IC": 10
     }
   },
-  "krName": "M1 개런드",
+  "name": "M1 개런드",
   "grow": 105
 }, {
   "id": 35,
-  "name": "M1A1",
+  "codeName": "M1A1",
   "rank": 3,
   "type": "rf",
   "illust": "哈路卡",
@@ -1361,11 +1361,11 @@
       "IC": 5
     }
   },
-  "krName": "M1A1",
+  "name": "M1A1",
   "grow": 115
 }, {
   "id": 36,
-  "name": "M1903",
+  "codeName": "M1903",
   "rank": 4,
   "type": "rf",
   "illust": "多元菌",
@@ -1400,11 +1400,11 @@
       "IC": 10
     }
   },
-  "krName": "스프링필드",
+  "name": "스프링필드",
   "grow": 125
 }, {
   "id": 37,
-  "name": "M14",
+  "codeName": "M14",
   "rank": 3,
   "type": "rf",
   "illust": "Rain Lan",
@@ -1440,11 +1440,11 @@
       "IC": 5
     }
   },
-  "krName": "M14",
+  "name": "M14",
   "grow": 110
 }, {
   "id": 38,
-  "name": "M21",
+  "codeName": "M21",
   "rank": 3,
   "type": "rf",
   "illust": "卑しい人间",
@@ -1479,11 +1479,11 @@
       "IC": 10
     }
   },
-  "krName": "M21",
+  "name": "M21",
   "grow": 110
 }, {
   "id": 39,
-  "name": "M1891",
+  "codeName": "M1891",
   "rank": 4,
   "type": "rf",
   "illust": "防弹乳牛",
@@ -1518,11 +1518,11 @@
       "IC": 10
     }
   },
-  "krName": "모신나강",
+  "name": "모신나강",
   "grow": 130
 }, {
   "id": 40,
-  "name": "SVT38",
+  "codeName": "SVT38",
   "rank": 2,
   "type": "rf",
   "illust": "sola7764",
@@ -1557,11 +1557,11 @@
       "IC": 10
     }
   },
-  "krName": "SVT-38",
+  "name": "SVT-38",
   "grow": 105
 }, {
   "id": 41,
-  "name": "SKS",
+  "codeName": "SKS",
   "rank": 2,
   "type": "rf",
   "illust": "phantania",
@@ -1597,11 +1597,11 @@
       "IC": 5
     }
   },
-  "krName": "시모노프",
+  "name": "시모노프",
   "grow": 105
 }, {
   "id": 42,
-  "name": "PTRD",
+  "codeName": "PTRD",
   "rank": 4,
   "type": "rf",
   "illust": "Evan揚",
@@ -1636,11 +1636,11 @@
       "IC": 15
     }
   },
-  "krName": "PTRD",
+  "name": "PTRD",
   "grow": 130
 }, {
   "id": 43,
-  "name": "SVD",
+  "codeName": "SVD",
   "rank": 4,
   "type": "rf",
   "illust": "幻象黑兔",
@@ -1676,11 +1676,11 @@
       "IC": 5
     }
   },
-  "krName": "SVD",
+  "name": "SVD",
   "grow": 120
 }, {
   "id": 44,
-  "name": "SV98",
+  "codeName": "SV98",
   "rank": 3,
   "type": "rf",
   "illust": "幻象黑兔",
@@ -1715,11 +1715,11 @@
       "IC": 10
     }
   },
-  "krName": "SV-98",
+  "name": "SV-98",
   "grow": 115
 }, {
   "id": 46,
-  "name": "98K",
+  "codeName": "98K",
   "rank": 5,
   "type": "rf",
   "illust": "芙芙酱",
@@ -1754,11 +1754,11 @@
       "IC": 8
     }
   },
-  "krName": "Kar98k",
+  "name": "Kar98k",
   "grow": 135
 }, {
   "id": 47,
-  "name": "G43",
+  "codeName": "G43",
   "rank": 2,
   "type": "rf",
   "illust": "河马",
@@ -1799,11 +1799,11 @@
       "AR": [45, 49, 54, 58, 63, 67, 72, 76, 81, 85]
     }
   },
-  "krName": "G43",
+  "name": "G43",
   "grow": 115
 }, {
   "id": 48,
-  "name": "WA2000",
+  "codeName": "WA2000",
   "rank": 5,
   "type": "rf",
   "illust": "多元菌",
@@ -1839,11 +1839,11 @@
       "IC": 5
     }
   },
-  "krName": "WA2000",
+  "name": "WA2000",
   "grow": 120
 }, {
   "id": 49,
-  "name": "56typeR",
+  "codeName": "56typeR",
   "rank": 3,
   "type": "rf",
   "illust": "KAN",
@@ -1879,11 +1879,11 @@
       "IC": 5
     }
   },
-  "krName": "56식 반",
+  "name": "56식 반",
   "grow": 110
 }, {
   "id": 50,
-  "name": "MLEMK1",
+  "codeName": "MLEMK1",
   "rank": 5,
   "type": "rf",
   "illust": "rei",
@@ -1919,11 +1919,11 @@
       "IC": 5
     }
   },
-  "krName": "리엔필드",
+  "name": "리엔필드",
   "grow": 135
 }, {
   "id": 51,
-  "name": "FN49",
+  "codeName": "FN49",
   "rank": 2,
   "type": "rf",
   "illust": "Bison仓鼠",
@@ -1959,11 +1959,11 @@
       "IC": 5
     }
   },
-  "krName": "FN-49",
+  "name": "FN-49",
   "grow": 115
 }, {
   "id": 52,
-  "name": "BM59",
+  "codeName": "BM59",
   "rank": 2,
   "type": "rf",
   "illust": "原子Dan",
@@ -1999,11 +1999,11 @@
       "IC": 5
     }
   },
-  "krName": "BM59",
+  "name": "BM59",
   "grow": 95
 }, {
   "id": 53,
-  "name": "NTW20",
+  "codeName": "NTW20",
   "rank": 5,
   "type": "rf",
   "illust": "RAN",
@@ -2038,11 +2038,11 @@
       "IC": 15
     }
   },
-  "krName": "NTW-20",
+  "name": "NTW-20",
   "grow": 130
 }, {
   "id": 54,
-  "name": "M16A1",
+  "codeName": "M16A1",
   "rank": 4,
   "type": "ar",
   "illust": "海猫络合物",
@@ -2078,11 +2078,11 @@
       "IC": 5
     }
   },
-  "krName": "M16A1",
+  "name": "M16A1",
   "grow": 110
 }, {
   "id": 55,
-  "name": "M4A1",
+  "codeName": "M4A1",
   "rank": 4,
   "type": "ar",
   "illust": "海猫络合物",
@@ -2120,11 +2120,11 @@
       "IC": 4
     }
   },
-  "krName": "M4A1",
+  "name": "M4A1",
   "grow": 115
 }, {
   "id": 56,
-  "name": "M4 SOPMOD II",
+  "codeName": "M4 SOPMOD II",
   "rank": 4,
   "type": "ar",
   "illust": "海猫络合物",
@@ -2160,11 +2160,11 @@
       "IC": 8
     }
   },
-  "krName": "M4 SOPMODII",
+  "name": "M4 SOPMODII",
   "grow": 110
 }, {
   "id": 57,
-  "name": "AR15",
+  "codeName": "AR15",
   "rank": 4,
   "type": "ar",
   "illust": "LIN+",
@@ -2202,11 +2202,11 @@
       "IC": 4
     }
   },
-  "krName": "ST AR-15",
+  "name": "ST AR-15",
   "grow": 120
 }, {
   "id": 58,
-  "name": "AK47",
+  "codeName": "AK47",
   "rank": 3,
   "type": "ar",
   "illust": "厕所董事长",
@@ -2243,11 +2243,11 @@
       "IC": 5
     }
   },
-  "krName": "AK-47",
+  "name": "AK-47",
   "grow": 110
 }, {
   "id": 60,
-  "name": "ASVAL",
+  "codeName": "ASVAL",
   "rank": 4,
   "type": "ar",
   "illust": "防弹乳牛",
@@ -2289,11 +2289,11 @@
       "PW": [110, 118, 126, 133, 141, 149, 157, 164, 172, 180]
     }
   },
-  "krName": "AS Val",
+  "name": "AS Val",
   "grow": 110
 }, {
   "id": 61,
-  "name": "STG44",
+  "codeName": "STG44",
   "rank": 3,
   "type": "ar",
   "illust": "八才",
@@ -2331,11 +2331,11 @@
       "IC": 8
     }
   },
-  "krName": "StG44",
+  "name": "StG44",
   "grow": 120
 }, {
   "id": 62,
-  "name": "G41",
+  "codeName": "G41",
   "rank": 5,
   "type": "ar",
   "illust": "NS",
@@ -2373,11 +2373,11 @@
       "IC": 4
     }
   },
-  "krName": "G41",
+  "name": "G41",
   "grow": 120
 }, {
   "id": 63,
-  "name": "G3",
+  "codeName": "G3",
   "rank": 2,
   "type": "ar",
   "illust": "PHI",
@@ -2413,11 +2413,11 @@
       "IC": 8
     }
   },
-  "krName": "G3",
+  "name": "G3",
   "grow": 120
 }, {
   "id": 64,
-  "name": "G36",
+  "codeName": "G36",
   "rank": 4,
   "type": "ar",
   "illust": "薯子Imoko",
@@ -2455,11 +2455,11 @@
       "IC": 4
     }
   },
-  "krName": "G36",
+  "name": "G36",
   "grow": 110
 }, {
   "id": 65,
-  "name": "HK416",
+  "codeName": "HK416",
   "rank": 5,
   "type": "ar",
   "illust": "NIXOO",
@@ -2494,11 +2494,11 @@
       "IC": 8
     }
   },
-  "krName": "HK416",
+  "name": "HK416",
   "grow": 115
 }, {
   "id": 66,
-  "name": "56-1type",
+  "codeName": "56-1type",
   "rank": 4,
   "type": "ar",
   "illust": "CanceR",
@@ -2536,11 +2536,11 @@
       "IC": 8
     }
   },
-  "krName": "56-1식",
+  "name": "56-1식",
   "grow": 110
 }, {
   "id": 68,
-  "name": "L85A1",
+  "codeName": "L85A1",
   "rank": 2,
   "type": "ar",
   "illust": "MKiiiiii",
@@ -2578,11 +2578,11 @@
       "IC": 6
     }
   },
-  "krName": "L85A1",
+  "name": "L85A1",
   "grow": 125
 }, {
   "id": 69,
-  "name": "FAMAS",
+  "codeName": "FAMAS",
   "rank": 4,
   "type": "ar",
   "illust": "KY",
@@ -2620,11 +2620,11 @@
       "IC": 8
     }
   },
-  "krName": "FAMAS",
+  "name": "FAMAS",
   "grow": 105
 }, {
   "id": 70,
-  "name": "FNFNC",
+  "codeName": "FNFNC",
   "rank": 3,
   "type": "ar",
   "illust": "麻将",
@@ -2661,11 +2661,11 @@
       "IC": 5
     }
   },
-  "krName": "FNC",
+  "name": "FNC",
   "grow": 115
 }, {
   "id": 71,
-  "name": "AR",
+  "codeName": "AR",
   "rank": 2,
   "type": "ar",
   "illust": "lyo",
@@ -2704,11 +2704,11 @@
       "IC": 5
     }
   },
-  "krName": "갈릴",
+  "name": "갈릴",
   "grow": 130
 }, {
   "id": 72,
-  "name": "TAR21",
+  "codeName": "TAR21",
   "rank": 4,
   "type": "ar",
   "illust": "木shiyo",
@@ -2745,11 +2745,11 @@
       "IC": 6
     }
   },
-  "krName": "TAR-21",
+  "name": "TAR-21",
   "grow": 115
 }, {
   "id": 74,
-  "name": "SIG510",
+  "codeName": "SIG510",
   "rank": 2,
   "type": "ar",
   "illust": "spirtie",
@@ -2786,11 +2786,11 @@
       "IC": 5
     }
   },
-  "krName": "SIG-510",
+  "name": "SIG-510",
   "grow": 125
 }, {
   "id": 75,
-  "name": "M1918",
+  "codeName": "M1918",
   "rank": 4,
   "type": "mg",
   "illust": "水乌龟",
@@ -2828,11 +2828,11 @@
       "IC": 8
     }
   },
-  "krName": "M1918",
+  "name": "M1918",
   "grow": 125
 }, {
   "id": 77,
-  "name": "M2HB",
+  "codeName": "M2HB",
   "rank": 3,
   "type": "mg",
   "illust": "15K",
@@ -2865,11 +2865,11 @@
       "DM": [120, 130, 150, 160, 170, 190, 200, 210, 230, 240]
     }
   },
-  "krName": "M2HB",
+  "name": "M2HB",
   "grow": 95
 }, {
   "id": 78,
-  "name": "M60",
+  "codeName": "M60",
   "rank": 4,
   "type": "mg",
   "illust": "ミカピカゾ",
@@ -2911,11 +2911,11 @@
       "PW": [40, 47, 54, 62, 69, 76, 83, 91, 98, 105]
     }
   },
-  "krName": "M60",
+  "name": "M60",
   "grow": 115
 }, {
   "id": 79,
-  "name": "M249SAW",
+  "codeName": "M249SAW",
   "rank": 3,
   "type": "mg",
   "illust": "雪樱樱",
@@ -2957,11 +2957,11 @@
       "PW": [16, 17, 19, 20, 21, 23, 24, 25, 27, 28]
     }
   },
-  "krName": "M249 SAW",
+  "name": "M249 SAW",
   "grow": 135
 }, {
   "id": 80,
-  "name": "M1919A4",
+  "codeName": "M1919A4",
   "rank": 3,
   "type": "mg",
   "illust": "AS109",
@@ -2998,11 +2998,11 @@
       "IC": 3
     }
   },
-  "krName": "M1919A4",
+  "name": "M1919A4",
   "grow": 110
 }, {
   "id": 81,
-  "name": "LWMMG",
+  "codeName": "LWMMG",
   "rank": 2,
   "type": "mg",
   "illust": "RFF",
@@ -3039,11 +3039,11 @@
       "IC": 3
     }
   },
-  "krName": "LWMMG",
+  "name": "LWMMG",
   "grow": 95
 }, {
   "id": 82,
-  "name": "DP28",
+  "codeName": "DP28",
   "rank": 2,
   "type": "mg",
   "illust": "BIBIA",
@@ -3080,11 +3080,11 @@
       "IC": 8
     }
   },
-  "krName": "DP28",
+  "name": "DP28",
   "grow": 125
 }, {
   "id": 84,
-  "name": "RPD",
+  "codeName": "RPD",
   "rank": 3,
   "type": "mg",
   "illust": "Sam_Ashton",
@@ -3121,11 +3121,11 @@
       "IC": 8
     }
   },
-  "krName": "RPD",
+  "name": "RPD",
   "grow": 130
 }, {
   "id": 85,
-  "name": "PK",
+  "codeName": "PK",
   "rank": 4,
   "type": "mg",
   "illust": "木shiyo",
@@ -3158,11 +3158,11 @@
       "DM": [150, 160, 170, 190, 200, 210, 220, 240, 250, 260]
     }
   },
-  "krName": "PK",
+  "name": "PK",
   "grow": 110
 }, {
   "id": 86,
-  "name": "MG42",
+  "codeName": "MG42",
   "rank": 3,
   "type": "mg",
   "illust": "spirtie",
@@ -3199,11 +3199,11 @@
       "IC": 8
     }
   },
-  "krName": "MG42",
+  "name": "MG42",
   "grow": 115
 }, {
   "id": 87,
-  "name": "MG34",
+  "codeName": "MG34",
   "rank": 2,
   "type": "mg",
   "illust": "spirtie",
@@ -3240,11 +3240,11 @@
       "IC": 8
     }
   },
-  "krName": "MG34",
+  "name": "MG34",
   "grow": 110
 }, {
   "id": 88,
-  "name": "MG3",
+  "codeName": "MG3",
   "rank": 4,
   "type": "mg",
   "illust": "猫头神",
@@ -3282,11 +3282,11 @@
       "IC": 8
     }
   },
-  "krName": "MG3",
+  "name": "MG3",
   "grow": 110
 }, {
   "id": 89,
-  "name": "BrenMK",
+  "codeName": "BrenMK",
   "rank": 3,
   "type": "mg",
   "illust": "废人",
@@ -3324,11 +3324,11 @@
       "IC": 8
     }
   },
-  "krName": "브렌",
+  "name": "브렌",
   "grow": 120
 }, {
   "id": 90,
-  "name": "FNP9",
+  "codeName": "FNP9",
   "rank": 2,
   "type": "hg",
   "illust": "Bison仓鼠",
@@ -3365,11 +3365,11 @@
       "IC": 6
     }
   },
-  "krName": "FNP9",
+  "name": "FNP9",
   "grow": 110
 }, {
   "id": 91,
-  "name": "MP446",
+  "codeName": "MP446",
   "rank": 2,
   "type": "hg",
   "illust": "XQ",
@@ -3405,11 +3405,11 @@
       "IC": 6
     }
   },
-  "krName": "MP-446",
+  "name": "MP-446",
   "grow": 120
 }, {
   "id": 92,
-  "name": "SpectreM4",
+  "codeName": "SpectreM4",
   "rank": 2,
   "type": "smg",
   "illust": "MKiiiiii",
@@ -3445,11 +3445,11 @@
       "IC": 6
     }
   },
-  "krName": "Spectre M4",
+  "name": "Spectre M4",
   "grow": 100
 }, {
   "id": 93,
-  "name": "IDW",
+  "codeName": "IDW",
   "rank": 2,
   "type": "smg",
   "illust": "Ki桑",
@@ -3485,11 +3485,11 @@
       "IC": 6
     }
   },
-  "krName": "IDW",
+  "name": "IDW",
   "grow": 130
 }, {
   "id": 94,
-  "name": "64type",
+  "codeName": "64type",
   "rank": 2,
   "type": "smg",
   "illust": "小迪",
@@ -3524,11 +3524,11 @@
       "IC": 5
     }
   },
-  "krName": "64식",
+  "name": "64식",
   "grow": 105
 }, {
   "id": 95,
-  "name": "88type",
+  "codeName": "88type",
   "rank": 3,
   "type": "rf",
   "illust": "团子",
@@ -3569,11 +3569,11 @@
       "PW": [50, 54, 59, 63, 68, 72, 77, 81, 86, 90]
     }
   },
-  "krName": "한양조 88식",
+  "name": "한양조 88식",
   "grow": 120
 }, {
   "id": 96,
-  "name": "Grizzly",
+  "codeName": "Grizzly",
   "rank": 5,
   "type": "hg",
   "illust": "REALMBW",
@@ -3610,11 +3610,11 @@
       "IC": 6
     }
   },
-  "krName": "그리즐리 Mk V",
+  "name": "그리즐리 Mk V",
   "grow": 125
 }, {
   "id": 97,
-  "name": "M950A",
+  "codeName": "M950A",
   "rank": 5,
   "type": "hg",
   "illust": "音符",
@@ -3651,11 +3651,11 @@
       "IC": 6
     }
   },
-  "krName": "M950A",
+  "name": "M950A",
   "grow": 115
 }, {
   "id": 98,
-  "name": "SPP1",
+  "codeName": "SPP1",
   "rank": 4,
   "type": "hg",
   "illust": "麻将",
@@ -3692,11 +3692,11 @@
       "IC": 6
     }
   },
-  "krName": "SPP-1",
+  "name": "SPP-1",
   "grow": 135
 }, {
   "id": 99,
-  "name": "Mk23",
+  "codeName": "Mk23",
   "rank": 4,
   "type": "hg",
   "illust": "雪樱樱",
@@ -3738,11 +3738,11 @@
       "DR": [5, 6, 6, 6, 7, 7, 7, 8, 8, 8]
     }
   },
-  "krName": "Mk23",
+  "name": "Mk23",
   "grow": 110
 }, {
   "id": 100,
-  "name": "P7",
+  "codeName": "P7",
   "rank": 4,
   "type": "hg",
   "illust": "Saru",
@@ -3779,11 +3779,11 @@
       "IC": 6
     }
   },
-  "krName": "P7",
+  "name": "P7",
   "grow": 115
 }, {
   "id": 101,
-  "name": "UMP9",
+  "codeName": "UMP9",
   "rank": 4,
   "type": "smg",
   "illust": "ZAGALA",
@@ -3819,11 +3819,11 @@
       "IC": 5
     }
   },
-  "krName": "UMP9",
+  "name": "UMP9",
   "grow": 110
 }, {
   "id": 102,
-  "name": "UMP40",
+  "codeName": "UMP40",
   "rank": 4,
   "type": "smg",
   "illust": "Renatus.Z",
@@ -3861,11 +3861,11 @@
       "IC": 1
     }
   },
-  "krName": "UMP40",
+  "name": "UMP40",
   "grow": 110
 }, {
   "id": 103,
-  "name": "UMP45",
+  "codeName": "UMP45",
   "rank": 4,
   "type": "smg",
   "illust": "ZAGALA",
@@ -3903,11 +3903,11 @@
       "IC": 1
     }
   },
-  "krName": "UMP45",
+  "name": "UMP45",
   "grow": 110
 }, {
   "id": 104,
-  "name": "G36C",
+  "codeName": "G36C",
   "rank": 5,
   "type": "smg",
   "illust": "Parsley",
@@ -3943,11 +3943,11 @@
       "IC": 8
     }
   },
-  "krName": "G36C",
+  "name": "G36C",
   "grow": 95
 }, {
   "id": 105,
-  "name": "OTs12",
+  "codeName": "OTs12",
   "rank": 3,
   "type": "ar",
   "illust": "林檎愛す",
@@ -3986,11 +3986,11 @@
       "IC": 4
     }
   },
-  "krName": "OTs-12",
+  "name": "OTs-12",
   "grow": 125
 }, {
   "id": 106,
-  "name": "FNFAL",
+  "codeName": "FNFAL",
   "rank": 5,
   "type": "ar",
   "illust": "水乌龟",
@@ -4025,11 +4025,11 @@
       "IC": 6
     }
   },
-  "krName": "FAL",
+  "name": "FAL",
   "grow": 115
 }, {
   "id": 107,
-  "name": "F2000",
+  "codeName": "F2000",
   "rank": 2,
   "type": "ar",
   "illust": "hanasa",
@@ -4066,11 +4066,11 @@
       "IC": 5
     }
   },
-  "krName": "F2000",
+  "name": "F2000",
   "grow": 105
 }, {
   "id": 108,
-  "name": "CZ805",
+  "codeName": "CZ805",
   "rank": 3,
   "type": "ar",
   "illust": "木子翔",
@@ -4108,11 +4108,11 @@
       "IC": 8
     }
   },
-  "krName": "CZ-805",
+  "name": "CZ-805",
   "grow": 110
 }, {
   "id": 109,
-  "name": "MG5",
+  "codeName": "MG5",
   "rank": 5,
   "type": "mg",
   "illust": "音符",
@@ -4146,11 +4146,11 @@
       "DM": [150, 170, 180, 200, 220, 230, 250, 270, 280, 300]
     }
   },
-  "krName": "MG5",
+  "name": "MG5",
   "grow": 110
 }, {
   "id": 110,
-  "name": "FG42",
+  "codeName": "FG42",
   "rank": 2,
   "type": "mg",
   "illust": "叽困",
@@ -4186,11 +4186,11 @@
       "IC": 3
     }
   },
-  "krName": "FG42",
+  "name": "FG42",
   "grow": 115
 }, {
   "id": 111,
-  "name": "AAT52",
+  "codeName": "AAT52",
   "rank": 2,
   "type": "mg",
   "illust": "Lino",
@@ -4231,11 +4231,11 @@
       "PW": [32, 38, 44, 50, 56, 61, 67, 73, 79, 85]
     }
   },
-  "krName": "AAT-52",
+  "name": "AAT-52",
   "grow": 90
 }, {
   "id": 112,
-  "name": "NEGEV",
+  "codeName": "NEGEV",
   "rank": 5,
   "type": "mg",
   "illust": "十月十日奏",
@@ -4268,11 +4268,11 @@
       "PW": [25, 28, 31, 33, 36, 39, 42, 44, 47, 50]
     }
   },
-  "krName": "네게브",
+  "name": "네게브",
   "grow": 135
 }, {
   "id": 113,
-  "name": "SPS",
+  "codeName": "SPS",
   "rank": 3,
   "type": "hg",
   "illust": "能登ツグミ",
@@ -4309,11 +4309,11 @@
       "IC": 6
     }
   },
-  "krName": "세르듀코프",
+  "name": "세르듀코프",
   "grow": 115
 }, {
   "id": 114,
-  "name": "Welrod",
+  "codeName": "Welrod",
   "rank": 5,
   "type": "hg",
   "illust": "工口牛",
@@ -4350,11 +4350,11 @@
       "IC": 6
     }
   },
-  "krName": "웰로드MkII",
+  "name": "웰로드MkII",
   "grow": 140
 }, {
   "id": 115,
-  "name": "KP31",
+  "codeName": "KP31",
   "rank": 5,
   "type": "smg",
   "illust": "Anmi",
@@ -4391,11 +4391,11 @@
       "IC": 6
     }
   },
-  "krName": "수오미",
+  "name": "수오미",
   "grow": 105
 }, {
   "id": 116,
-  "name": "Z62",
+  "codeName": "Z62",
   "rank": 3,
   "type": "smg",
   "illust": "ALLENES",
@@ -4433,11 +4433,11 @@
       "IC": 3
     }
   },
-  "krName": "Z-62",
+  "name": "Z-62",
   "grow": 120
 }, {
   "id": 117,
-  "name": "PSG1",
+  "codeName": "PSG1",
   "rank": 4,
   "type": "rf",
   "illust": "CanceR",
@@ -4472,11 +4472,11 @@
       "IC": 10
     }
   },
-  "krName": "PSG-1",
+  "name": "PSG-1",
   "grow": 105
 }, {
   "id": 118,
-  "name": "9A91",
+  "codeName": "9A91",
   "rank": 4,
   "type": "ar",
   "illust": "防弹乳牛",
@@ -4518,11 +4518,11 @@
       "PW": [110, 118, 126, 133, 141, 149, 157, 164, 172, 180]
     }
   },
-  "krName": "9A-91",
+  "name": "9A-91",
   "grow": 110
 }, {
   "id": 119,
-  "name": "OTs14",
+  "codeName": "OTs14",
   "rank": 5,
   "type": "ar",
   "illust": "ASK",
@@ -4564,11 +4564,11 @@
       "PW": [120, 129, 138, 147, 156, 164, 173, 182, 191, 200]
     }
   },
-  "krName": "OTs-14",
+  "name": "OTs-14",
   "grow": 125
 }, {
   "id": 120,
-  "name": "ARX160",
+  "codeName": "ARX160",
   "rank": 3,
   "type": "ar",
   "illust": "死盖",
@@ -4604,11 +4604,11 @@
       "IC": 8
     }
   },
-  "krName": "ARX-160",
+  "name": "ARX-160",
   "grow": 115
 }, {
   "id": 121,
-  "name": "Mk48",
+  "codeName": "Mk48",
   "rank": 4,
   "type": "mg",
   "illust": "SA",
@@ -4644,11 +4644,11 @@
       "IC": 3
     }
   },
-  "krName": "Mk48",
+  "name": "Mk48",
   "grow": 100
 }, {
   "id": 122,
-  "name": "G11",
+  "codeName": "G11",
   "rank": 5,
   "type": "ar",
   "illust": "音符",
@@ -4685,11 +4685,11 @@
       "IC": 6
     }
   },
-  "krName": "G11",
+  "name": "G11",
   "grow": 110
 }, {
   "id": 123,
-  "name": "P99",
+  "codeName": "P99",
   "rank": 3,
   "type": "hg",
   "illust": "真名",
@@ -4726,11 +4726,11 @@
       "IC": 6
     }
   },
-  "krName": "P99",
+  "name": "P99",
   "grow": 110
 }, {
   "id": 124,
-  "name": "SuperSASS",
+  "codeName": "SuperSASS",
   "rank": 3,
   "type": "rf",
   "illust": "受菟",
@@ -4765,11 +4765,11 @@
       "IC": 10
     }
   },
-  "krName": "Super SASS",
+  "name": "Super SASS",
   "grow": 105
 }, {
   "id": 125,
-  "name": "MG4",
+  "codeName": "MG4",
   "rank": 5,
   "type": "mg",
   "illust": "neco",
@@ -4807,11 +4807,11 @@
       "IC": 8
     }
   },
-  "krName": "MG4",
+  "name": "MG4",
   "grow": 135
 }, {
   "id": 126,
-  "name": "NZ75",
+  "codeName": "NZ75",
   "rank": 5,
   "type": "hg",
   "illust": "音符",
@@ -4848,11 +4848,11 @@
       "IC": 6
     }
   },
-  "krName": "NZ75",
+  "name": "NZ75",
   "grow": 125
 }, {
   "id": 127,
-  "name": "79type",
+  "codeName": "79type",
   "rank": 5,
   "type": "smg",
   "illust": "防弹乳牛",
@@ -4887,11 +4887,11 @@
       "IC": 5
     }
   },
-  "krName": "79식",
+  "name": "79식",
   "grow": 100
 }, {
   "id": 128,
-  "name": "M99",
+  "codeName": "M99",
   "rank": 5,
   "type": "rf",
   "illust": "Saru",
@@ -4926,11 +4926,11 @@
       "IC": 15
     }
   },
-  "krName": "M99",
+  "name": "M99",
   "grow": 135
 }, {
   "id": 129,
-  "name": "95type",
+  "codeName": "95type",
   "rank": 5,
   "type": "ar",
   "illust": "木shiyo",
@@ -4968,11 +4968,11 @@
       "IC": 2
     }
   },
-  "krName": "95식",
+  "name": "95식",
   "grow": 120
 }, {
   "id": 130,
-  "name": "97type",
+  "codeName": "97type",
   "rank": 5,
   "type": "ar",
   "illust": "木shiyo",
@@ -5011,11 +5011,11 @@
       "IC": 2
     }
   },
-  "krName": "97식",
+  "name": "97식",
   "grow": 125
 }, {
   "id": 131,
-  "name": "EVO3",
+  "codeName": "EVO3",
   "rank": 3,
   "type": "smg",
   "illust": "钉田西瓜",
@@ -5050,11 +5050,11 @@
       "IC": 3
     }
   },
-  "krName": "EVO 3",
+  "name": "EVO 3",
   "grow": 105
 }, {
   "id": 132,
-  "name": "59type",
+  "codeName": "59type",
   "rank": 3,
   "type": "hg",
   "illust": "麻将",
@@ -5097,11 +5097,11 @@
       "DR": [5, 6, 6, 6, 7, 7, 7, 8, 8, 8]
     }
   },
-  "krName": "59식",
+  "name": "59식",
   "grow": 130
 }, {
   "id": 133,
-  "name": "63type",
+  "codeName": "63type",
   "rank": 2,
   "type": "ar",
   "illust": "TOMATO",
@@ -5140,11 +5140,11 @@
       "IC": 5
     }
   },
-  "krName": "63식",
+  "name": "63식",
   "grow": 115
 }, {
   "id": 134,
-  "name": "AR70",
+  "codeName": "AR70",
   "rank": 3,
   "type": "ar",
   "illust": "NoriZC",
@@ -5180,11 +5180,11 @@
       "IC": 8
     }
   },
-  "krName": "AR70",
+  "name": "AR70",
   "grow": 120
 }, {
   "id": 135,
-  "name": "SR3MP",
+  "codeName": "SR3MP",
   "rank": 5,
   "type": "smg",
   "illust": "熊猫印象",
@@ -5221,11 +5221,11 @@
       "IC": 4
     }
   },
-  "krName": "SR-3MP",
+  "name": "SR-3MP",
   "grow": 95
 }, {
   "id": 136,
-  "name": "PP19",
+  "codeName": "PP19",
   "rank": 4,
   "type": "smg",
   "illust": "八才",
@@ -5260,11 +5260,11 @@
       "IC": 3
     }
   },
-  "krName": "PP-19",
+  "name": "PP-19",
   "grow": 110
 }, {
   "id": 137,
-  "name": "PP1901",
+  "codeName": "PP1901",
   "rank": 4,
   "type": "smg",
   "illust": "熊猫印象",
@@ -5302,11 +5302,11 @@
       "IC": 1
     }
   },
-  "krName": "PP-19-01",
+  "name": "PP-19-01",
   "grow": 105
 }, {
   "id": 138,
-  "name": "6P62",
+  "codeName": "6P62",
   "rank": 3,
   "type": "ar",
   "illust": "羽中",
@@ -5343,11 +5343,11 @@
       "IC": 5
     }
   },
-  "krName": "6P62",
+  "name": "6P62",
   "grow": 125
 }, {
   "id": 139,
-  "name": "BrenTen",
+  "codeName": "BrenTen",
   "rank": 2,
   "type": "hg",
   "illust": "林大B",
@@ -5384,11 +5384,11 @@
       "IC": 6
     }
   },
-  "krName": "Bren Ten",
+  "name": "Bren Ten",
   "grow": 110
 }, {
   "id": 140,
-  "name": "PSM",
+  "codeName": "PSM",
   "rank": 3,
   "type": "hg",
   "illust": "sola7764",
@@ -5426,11 +5426,11 @@
       "IC": 6
     }
   },
-  "krName": "PSM",
+  "name": "PSM",
   "grow": 135
 }, {
   "id": 141,
-  "name": "USPCompact",
+  "codeName": "USPCompact",
   "rank": 2,
   "type": "hg",
   "illust": "哈路卡",
@@ -5466,11 +5466,11 @@
       "IC": 6
     }
   },
-  "krName": "USP Compact",
+  "name": "USP Compact",
   "grow": 115
 }, {
   "id": 142,
-  "name": "FN57",
+  "codeName": "FN57",
   "rank": 5,
   "type": "hg",
   "illust": "水乌龟",
@@ -5508,11 +5508,11 @@
       "IC": 6
     }
   },
-  "krName": "Five-seveN",
+  "name": "Five-seveN",
   "grow": 125
 }, {
   "id": 143,
-  "name": "RO635",
+  "codeName": "RO635",
   "rank": 5,
   "type": "smg",
   "illust": "海猫络合物",
@@ -5550,11 +5550,11 @@
       "IC": 3
     }
   },
-  "krName": "RO635",
+  "name": "RO635",
   "grow": 105
 }, {
   "id": 144,
-  "name": "MT9",
+  "codeName": "MT9",
   "rank": 3,
   "type": "smg",
   "illust": "麻将",
@@ -5590,11 +5590,11 @@
       "IC": 5
     }
   },
-  "krName": "MT-9",
+  "name": "MT-9",
   "grow": 100
 }, {
   "id": 145,
-  "name": "OC44",
+  "codeName": "OC44",
   "rank": 3,
   "type": "rf",
   "illust": "rosele",
@@ -5629,11 +5629,11 @@
       "IC": 15
     }
   },
-  "krName": "OTs-44",
+  "name": "OTs-44",
   "grow": 135
 }, {
   "id": 146,
-  "name": "G28",
+  "codeName": "G28",
   "rank": 4,
   "type": "rf",
   "illust": "工口牛",
@@ -5669,11 +5669,11 @@
       "IC": 5
     }
   },
-  "krName": "G28",
+  "name": "G28",
   "grow": 120
 }, {
   "id": 147,
-  "name": "SSG69",
+  "codeName": "SSG69",
   "rank": 3,
   "type": "rf",
   "illust": "拿铁",
@@ -5709,11 +5709,11 @@
       "IC": 5
     }
   },
-  "krName": "SSG 69",
+  "name": "SSG 69",
   "grow": 120
 }, {
   "id": 148,
-  "name": "IWS2000",
+  "codeName": "IWS2000",
   "rank": 5,
   "type": "rf",
   "illust": "十月十日奏",
@@ -5750,11 +5750,11 @@
       "IC": 6
     }
   },
-  "krName": "IWS 2000",
+  "name": "IWS 2000",
   "grow": 130
 }, {
   "id": 149,
-  "name": "AEK999",
+  "codeName": "AEK999",
   "rank": 4,
   "type": "mg",
   "illust": "RAN",
@@ -5795,11 +5795,11 @@
       "HT": [30, 34, 39, 43, 48, 52, 57, 61, 66, 70]
     }
   },
-  "krName": "AEK999",
+  "name": "AEK999",
   "grow": 110
 }, {
   "id": 150,
-  "name": "Shipka",
+  "codeName": "Shipka",
   "rank": 4,
   "type": "smg",
   "illust": "八云玖",
@@ -5836,11 +5836,11 @@
       "IC": 6
     }
   },
-  "krName": "시프카",
+  "name": "시프카",
   "grow": 115
 }, {
   "id": 151,
-  "name": "M1887",
+  "codeName": "M1887",
   "rank": 5,
   "type": "sg",
   "illust": "REALMBW",
@@ -5878,11 +5878,11 @@
       "IC": 15
     }
   },
-  "krName": "M1887",
+  "name": "M1887",
   "grow": 115
 }, {
   "id": 152,
-  "name": "M1897",
+  "codeName": "M1897",
   "rank": 3,
   "type": "sg",
   "illust": "小迪",
@@ -5919,11 +5919,11 @@
       "IC": 8
     }
   },
-  "krName": "M1897",
+  "name": "M1897",
   "grow": 100
 }, {
   "id": 153,
-  "name": "Ithaca37",
+  "codeName": "Ithaca37",
   "rank": 4,
   "type": "sg",
   "illust": "Rain Lan",
@@ -5960,11 +5960,11 @@
       "IC": 8
     }
   },
-  "krName": "M37",
+  "name": "M37",
   "grow": 90
 }, {
   "id": 154,
-  "name": "M500",
+  "codeName": "M500",
   "rank": 3,
   "type": "sg",
   "illust": "Ki桑",
@@ -6001,11 +6001,11 @@
       "IC": 10
     }
   },
-  "krName": "M500",
+  "name": "M500",
   "grow": 95
 }, {
   "id": 155,
-  "name": "M590",
+  "codeName": "M590",
   "rank": 4,
   "type": "sg",
   "illust": "防弹乳牛",
@@ -6042,11 +6042,11 @@
       "IC": 10
     }
   },
-  "krName": "M590",
+  "name": "M590",
   "grow": 95
 }, {
   "id": 156,
-  "name": "SuperShorty",
+  "codeName": "SuperShorty",
   "rank": 4,
   "type": "sg",
   "illust": "废人",
@@ -6085,11 +6085,11 @@
       "IC": 10
     }
   },
-  "krName": "Super-Shorty",
+  "name": "Super-Shorty",
   "grow": 125
 }, {
   "id": 157,
-  "name": "KSG",
+  "codeName": "KSG",
   "rank": 5,
   "type": "sg",
   "illust": "neco",
@@ -6127,11 +6127,11 @@
       "IC": 10
     }
   },
-  "krName": "KSG",
+  "name": "KSG",
   "grow": 100
 }, {
   "id": 158,
-  "name": "KS23",
+  "codeName": "KS23",
   "rank": 3,
   "type": "sg",
   "illust": "死盖",
@@ -6169,11 +6169,11 @@
       "IC": 8
     }
   },
-  "krName": "KS-23",
+  "name": "KS-23",
   "grow": 90
 }, {
   "id": 159,
-  "name": "RMB93",
+  "codeName": "RMB93",
   "rank": 3,
   "type": "sg",
   "illust": "Bison仓鼠",
@@ -6211,11 +6211,11 @@
       "IC": 8
     }
   },
-  "krName": "RMB-93",
+  "name": "RMB-93",
   "grow": 100
 }, {
   "id": 160,
-  "name": "Saiga12",
+  "codeName": "Saiga12",
   "rank": 5,
   "type": "sg",
   "illust": "防弹乳牛",
@@ -6253,11 +6253,11 @@
       "IC": 8
     }
   },
-  "krName": "Saiga-12",
+  "name": "Saiga-12",
   "grow": 100
 }, {
   "id": 161,
-  "name": "97typeS",
+  "codeName": "97typeS",
   "rank": 4,
   "type": "sg",
   "illust": "河马",
@@ -6294,11 +6294,11 @@
       "IC": 8
     }
   },
-  "krName": "97식 산탄총",
+  "name": "97식 산탄총",
   "grow": 105
 }, {
   "id": 162,
-  "name": "SPAS12",
+  "codeName": "SPAS12",
   "rank": 4,
   "type": "sg",
   "illust": "陆生の洲川",
@@ -6335,11 +6335,11 @@
       "IC": 8
     }
   },
-  "krName": "SPAS-12",
+  "name": "SPAS-12",
   "grow": 90
 }, {
   "id": 166,
-  "name": "CZ75",
+  "codeName": "CZ75",
   "rank": 5,
   "type": "hg",
   "illust": "音符",
@@ -6375,11 +6375,11 @@
       "IC": 6
     }
   },
-  "krName": "CZ75",
+  "name": "CZ75",
   "grow": 125
 }, {
   "id": 167,
-  "name": "HK45",
+  "codeName": "HK45",
   "rank": 3,
   "type": "hg",
   "illust": "雪樱樱",
@@ -6416,11 +6416,11 @@
       "IC": 6
     }
   },
-  "krName": "HK45",
+  "name": "HK45",
   "grow": 110
 }, {
   "id": 168,
-  "name": "Spitfire",
+  "codeName": "Spitfire",
   "rank": 4,
   "type": "hg",
   "illust": "Skade",
@@ -6457,11 +6457,11 @@
       "IC": 6
     }
   },
-  "krName": "Spitfire",
+  "name": "Spitfire",
   "grow": 120
 }, {
   "id": 169,
-  "name": "ColtSCW",
+  "codeName": "ColtSCW",
   "rank": 3,
   "type": "smg",
   "illust": "幻象黑兔",
@@ -6499,11 +6499,11 @@
       "IC": 6
     }
   },
-  "krName": "SCW",
+  "name": "SCW",
   "grow": 100
 }, {
   "id": 170,
-  "name": "Ash127",
+  "codeName": "Ash127",
   "rank": 3,
   "type": "ar",
   "illust": "仙女V",
@@ -6542,11 +6542,11 @@
       "IC": 6
     }
   },
-  "krName": "Ash-12.7",
+  "name": "Ash-12.7",
   "grow": 130
 }, {
   "id": 171,
-  "name": "Ribeyrolles",
+  "codeName": "Ribeyrolles",
   "rank": 4,
   "type": "ar",
   "illust": "rei",
@@ -6584,11 +6584,11 @@
       "IC": 6
     }
   },
-  "krName": "리베롤",
+  "name": "리베롤",
   "grow": 135
 }, {
   "id": 172,
-  "name": "RFB",
+  "codeName": "RFB",
   "rank": 5,
   "type": "ar",
   "illust": "Anmi",
@@ -6626,11 +6626,11 @@
       "IC": 6
     }
   },
-  "krName": "RFB",
+  "name": "RFB",
   "grow": 145
 }, {
   "id": 173,
-  "name": "PKP",
+  "codeName": "PKP",
   "rank": 5,
   "type": "mg",
   "illust": "虎三",
@@ -6664,11 +6664,11 @@
       "PB": [5, 7, 8, 10, 12, 13, 15, 17, 18, 20]
     }
   },
-  "krName": "PKP",
+  "name": "PKP",
   "grow": 115
 }, {
   "id": 174,
-  "name": "81typeR",
+  "codeName": "81typeR",
   "rank": 3,
   "type": "rf",
   "illust": "八才",
@@ -6709,11 +6709,11 @@
       "AR": [50, 54, 59, 63, 68, 72, 77, 81, 86, 90]
     }
   },
-  "krName": "81식 카빈",
+  "name": "81식 카빈",
   "grow": 125
 }, {
   "id": 175,
-  "name": "ART556",
+  "codeName": "ART556",
   "rank": 5,
   "type": "ar",
   "illust": "Saru",
@@ -6751,11 +6751,11 @@
       "IC": 6
     }
   },
-  "krName": "ART556",
+  "name": "ART556",
   "grow": 130
 }, {
   "id": 176,
-  "name": "TMP",
+  "codeName": "TMP",
   "rank": 3,
   "type": "smg",
   "illust": "废人",
@@ -6792,11 +6792,11 @@
       "IC": 6
     }
   },
-  "krName": "TMP",
+  "name": "TMP",
   "grow": 105
 }, {
   "id": 177,
-  "name": "KLIN",
+  "codeName": "KLIN",
   "rank": 4,
   "type": "smg",
   "illust": "水熊",
@@ -6833,11 +6833,11 @@
       "IC": 3
     }
   },
-  "krName": "KLIN",
+  "name": "KLIN",
   "grow": 100
 }, {
   "id": 178,
-  "name": "F1",
+  "codeName": "F1",
   "rank": 3,
   "type": "smg",
   "illust": "Ki桑",
@@ -6875,11 +6875,11 @@
       "IC": 1
     }
   },
-  "krName": "F1",
+  "name": "F1",
   "grow": 112
 }, {
   "id": 179,
-  "name": "DSR50",
+  "codeName": "DSR50",
   "rank": 5,
   "type": "rf",
   "illust": "liduke",
@@ -6915,11 +6915,11 @@
       "IC": 15
     }
   },
-  "krName": "DSR-50",
+  "name": "DSR-50",
   "grow": 138
 }, {
   "id": 180,
-  "name": "PzB39",
+  "codeName": "PzB39",
   "rank": 4,
   "type": "rf",
   "illust": "nineo",
@@ -6955,11 +6955,11 @@
       "IC": 6
     }
   },
-  "krName": "PzB39",
+  "name": "PzB39",
   "grow": 130
 }, {
   "id": 181,
-  "name": "T91",
+  "codeName": "T91",
   "rank": 5,
   "type": "ar",
   "illust": "Krenz",
@@ -7001,11 +7001,11 @@
       "CR": [25, 28, 31, 33, 36, 39, 42, 44, 47, 50]
     }
   },
-  "krName": "T91",
+  "name": "T91",
   "grow": 115
 }, {
   "id": 182,
-  "name": "wz29",
+  "codeName": "wz29",
   "rank": 3,
   "type": "rf",
   "illust": "zui",
@@ -7041,11 +7041,11 @@
       "IC": 5
     }
   },
-  "krName": "wz.29",
+  "name": "wz.29",
   "grow": 110
 }, {
   "id": 183,
-  "name": "Contender",
+  "codeName": "Contender",
   "rank": 5,
   "type": "hg",
   "illust": "細重ソウジ",
@@ -7083,11 +7083,11 @@
       "IC": 6
     }
   },
-  "krName": "컨텐더",
+  "name": "컨텐더",
   "grow": 150
 }, {
   "id": 184,
-  "name": "T5000",
+  "codeName": "T5000",
   "rank": 4,
   "type": "rf",
   "illust": "92M",
@@ -7124,11 +7124,11 @@
       "IC": 6
     }
   },
-  "krName": "T-5000",
+  "name": "T-5000",
   "grow": 117
 }, {
   "id": 185,
-  "name": "Ameli",
+  "codeName": "Ameli",
   "rank": 4,
   "type": "mg",
   "illust": "水熊",
@@ -7170,11 +7170,11 @@
       "PW": [28, 30, 33, 35, 38, 40, 43, 45, 48, 50]
     }
   },
-  "krName": "아멜리",
+  "name": "아멜리",
   "grow": 145
 }, {
   "id": 186,
-  "name": "P226",
+  "codeName": "P226",
   "rank": 3,
   "type": "hg",
   "illust": "PHI",
@@ -7211,11 +7211,11 @@
       "IC": 6
     }
   },
-  "krName": "P226",
+  "name": "P226",
   "grow": 110
 }, {
   "id": 187,
-  "name": "Ak5",
+  "codeName": "Ak5",
   "rank": 4,
   "type": "ar",
   "illust": "百足",
@@ -7252,11 +7252,11 @@
       "IC": 5
     }
   },
-  "krName": "Ak 5",
+  "name": "Ak 5",
   "grow": 115
 }, {
   "id": 188,
-  "name": "SAT8",
+  "codeName": "SAT8",
   "rank": 5,
   "type": "sg",
   "illust": "NIN",
@@ -7294,11 +7294,11 @@
       "IC": 2
     }
   },
-  "krName": "S.A.T.8",
+  "name": "S.A.T.8",
   "grow": 95
 }, {
   "id": 189,
-  "name": "USAS12",
+  "codeName": "USAS12",
   "rank": 4,
   "type": "sg",
   "illust": "麻将",
@@ -7337,11 +7337,11 @@
       "IC": 1
     }
   },
-  "krName": "USAS-12",
+  "name": "USAS-12",
   "grow": 100
 }, {
   "id": 190,
-  "name": "NS2000",
+  "codeName": "NS2000",
   "rank": 3,
   "type": "sg",
   "illust": "HIKARI",
@@ -7378,11 +7378,11 @@
       "IC": 8
     }
   },
-  "krName": "NS2000",
+  "name": "NS2000",
   "grow": 100
 }, {
   "id": 191,
-  "name": "M12",
+  "codeName": "M12",
   "rank": 3,
   "type": "smg",
   "illust": "猫头神",
@@ -7420,11 +7420,11 @@
       "IC": 3
     }
   },
-  "krName": "M12",
+  "name": "M12",
   "grow": 115
 }, {
   "id": 192,
-  "name": "JS-127",
+  "codeName": "JS-127",
   "rank": 5,
   "type": "rf",
   "illust": "音符",
@@ -7460,11 +7460,11 @@
       "IC": 6
     }
   },
-  "krName": "JS05",
+  "name": "JS05",
   "grow": 136
 }, {
   "id": 193,
-  "name": "T65",
+  "codeName": "T65",
   "rank": 3,
   "type": "ar",
   "illust": "PHI",
@@ -7506,11 +7506,11 @@
       "CR": [22, 24, 26, 28, 30, 32, 34, 36, 38, 40]
     }
   },
-  "krName": "T65",
+  "name": "T65",
   "grow": 115
 }, {
   "id": 194,
-  "name": "K2",
+  "codeName": "K2",
   "rank": 5,
   "type": "ar",
   "illust": "Anmi",
@@ -7552,11 +7552,11 @@
       "IC": 8
     }
   },
-  "krName": "K2",
+  "name": "K2",
   "grow": 111
 }, {
   "id": 195,
-  "name": "HK23",
+  "codeName": "HK23",
   "rank": 3,
   "type": "mg",
   "illust": "Rain Lan",
@@ -7594,11 +7594,11 @@
       "IC": 8
     }
   },
-  "krName": "HK23",
+  "name": "HK23",
   "grow": 125
 }, {
   "id": 196,
-  "name": "ZastavaM21",
+  "codeName": "ZastavaM21",
   "rank": 5,
   "type": "ar",
   "illust": "nineo",
@@ -7638,11 +7638,11 @@
       "IC": 4
     }
   },
-  "krName": "Zas M21",
+  "name": "Zas M21",
   "grow": 125
 }, {
   "id": 197,
-  "name": "Carcano1891",
+  "codeName": "Carcano1891",
   "rank": 5,
   "type": "rf",
   "illust": "細重ソウジ",
@@ -7681,11 +7681,11 @@
       "IC": 6
     }
   },
-  "krName": "카르카노M1891",
+  "name": "카르카노M1891",
   "grow": 140
 }, {
   "id": 198,
-  "name": "Carcano1938",
+  "codeName": "Carcano1938",
   "rank": 5,
   "type": "rf",
   "illust": "細重ソウジ",
@@ -7724,11 +7724,11 @@
       "IC": 6
     }
   },
-  "krName": "카르카노M91/38",
+  "name": "카르카노M91/38",
   "grow": 140
 }, {
   "id": 199,
-  "name": "80type",
+  "codeName": "80type",
   "rank": 4,
   "type": "mg",
   "illust": "兔爷",
@@ -7766,11 +7766,11 @@
       "IC": 8
     }
   },
-  "krName": "80식",
+  "name": "80식",
   "grow": 105
 }, {
   "id": 200,
-  "name": "xm3",
+  "codeName": "xm3",
   "rank": 4,
   "type": "rf",
   "illust": "时辰",
@@ -7811,11 +7811,11 @@
       "AR": [55, 60, 65, 70, 75, 80, 85, 90, 95, 100]
     }
   },
-  "krName": "XM3",
+  "name": "XM3",
   "grow": 128
 }, {
   "id": 201,
-  "name": "GepardM1",
+  "codeName": "GepardM1",
   "rank": 3,
   "type": "rf",
   "illust": "荒境TS",
@@ -7850,11 +7850,11 @@
       "IC": 15
     }
   },
-  "krName": "게파드 M1",
+  "name": "게파드 M1",
   "grow": 120
 }, {
   "id": 202,
-  "name": "Thunder50",
+  "codeName": "Thunder50",
   "rank": 4,
   "type": "hg",
   "illust": "NIN",
@@ -7890,11 +7890,11 @@
       "IC": 4
     }
   },
-  "krName": "썬더",
+  "name": "썬더",
   "grow": 130
 }, {
   "id": 203,
-  "name": "PDW",
+  "codeName": "PDW",
   "rank": 4,
   "type": "smg",
   "illust": "HJL",
@@ -7932,11 +7932,11 @@
       "IC": 6
     }
   },
-  "krName": "허니뱃저",
+  "name": "허니뱃저",
   "grow": 90
 }, {
   "id": 204,
-  "name": "Ballista",
+  "codeName": "Ballista",
   "rank": 5,
   "type": "rf",
   "illust": "水乌龟",
@@ -7972,11 +7972,11 @@
       "IC": 8
     }
   },
-  "krName": "발리스타",
+  "name": "발리스타",
   "grow": 142
 }, {
   "id": 205,
-  "name": "AN94",
+  "codeName": "AN94",
   "rank": 5,
   "type": "ar",
   "illust": "多元菌",
@@ -8012,11 +8012,11 @@
       "IC": 6
     }
   },
-  "krName": "AN-94",
+  "name": "AN-94",
   "grow": 148
 }, {
   "id": 206,
-  "name": "AK12",
+  "codeName": "AK12",
   "rank": 5,
   "type": "ar",
   "illust": "多元菌",
@@ -8056,11 +8056,11 @@
       "IC": 6
     }
   },
-  "krName": "AK-12",
+  "name": "AK-12",
   "grow": 139
 }, {
   "id": 207,
-  "name": "CZ2000",
+  "codeName": "CZ2000",
   "rank": 4,
   "type": "ar",
   "illust": "NoriZC",
@@ -8102,11 +8102,11 @@
       "HT": [30, 32, 34, 37, 39, 41, 43, 46, 48, 50]
     }
   },
-  "krName": "CZ2000",
+  "name": "CZ2000",
   "grow": 110
 }, {
   "id": 208,
-  "name": "HK21",
+  "codeName": "HK21",
   "rank": 5,
   "type": "mg",
   "illust": "小吃",
@@ -8146,11 +8146,11 @@
       "IC": 8
     }
   },
-  "krName": "HK21",
+  "name": "HK21",
   "grow": 125
 }, {
   "id": 209,
-  "name": "OTs39",
+  "codeName": "OTs39",
   "rank": 3,
   "type": "smg",
   "illust": "spirtie",
@@ -8185,11 +8185,11 @@
       "IC": 5
     }
   },
-  "krName": "OTs-39",
+  "name": "OTs-39",
   "grow": 105
 }, {
   "id": 210,
-  "name": "CZ52",
+  "codeName": "CZ52",
   "rank": 3,
   "type": "hg",
   "illust": "小吃",
@@ -8226,11 +8226,11 @@
       "IC": 6
     }
   },
-  "krName": "CZ52",
+  "name": "CZ52",
   "grow": 115
 }, {
   "id": 211,
-  "name": "DTASRS",
+  "codeName": "DTASRS",
   "rank": 5,
   "type": "rf",
   "illust": "neco",
@@ -8267,11 +8267,11 @@
       "IC": 6
     }
   },
-  "krName": "SRS",
+  "name": "SRS",
   "grow": 130
 }, {
   "id": 212,
-  "name": "K5",
+  "codeName": "K5",
   "rank": 4,
   "type": "hg",
   "illust": "lpip",
@@ -8310,11 +8310,11 @@
       "IC": 6
     }
   },
-  "krName": "K5",
+  "name": "K5",
   "grow": 108
 }, {
   "id": 213,
-  "name": "CBJMS",
+  "codeName": "CBJMS",
   "rank": 5,
   "type": "smg",
   "illust": "小吃",
@@ -8352,11 +8352,11 @@
       "IC": 1
     }
   },
-  "krName": "C-MS",
+  "name": "C-MS",
   "grow": 110
 }, {
   "id": 215,
-  "name": "MDR",
+  "codeName": "MDR",
   "rank": 5,
   "type": "ar",
   "illust": "RAN",
@@ -8396,11 +8396,11 @@
       "IC": 4
     }
   },
-  "krName": "MDR",
+  "name": "MDR",
   "grow": 122
 }, {
   "id": 216,
-  "name": "XM8",
+  "codeName": "XM8",
   "rank": 4,
   "type": "ar",
   "illust": "かれい",
@@ -8436,11 +8436,11 @@
       "IC": 8
     }
   },
-  "krName": "XM8",
+  "name": "XM8",
   "grow": 112
 }, {
   "id": 217,
-  "name": "HEZISM1",
+  "codeName": "HEZISM1",
   "type": "rf",
   "rank": 3,
   "stats": {
@@ -8453,7 +8453,7 @@
     "armorPiercing": 10,
     "crit": 40
   },
-  "krName": "SM-1",
+  "name": "SM-1",
   "grow": 115,
   "effect": {
     "effectType": "hg",
@@ -8475,7 +8475,7 @@
   }
 }, {
   "id": 218,
-  "name": "T77",
+  "codeName": "T77",
   "type": "smg",
   "rank": 3,
   "stats": {
@@ -8509,7 +8509,7 @@
   }
 }, {
   "id": 1001,
-  "name": "BB_Noel",
+  "codeName": "BB_Noel",
   "rank": 5,
   "type": "hg",
   "illust": "水熊",
@@ -8545,11 +8545,11 @@
       "IC": 6
     }
   },
-  "krName": "노엘 버밀리온",
+  "name": "노엘 버밀리온",
   "grow": 120
 }, {
   "id": 1002,
-  "name": "GG_elfeldt",
+  "codeName": "GG_elfeldt",
   "rank": 5,
   "type": "sg",
   "illust": "ZAGALA",
@@ -8587,11 +8587,11 @@
       "IC": 10
     }
   },
-  "krName": "엘펠트 밸런타인",
+  "name": "엘펠트 밸런타인",
   "grow": 95
 }, {
   "id": 1003,
-  "name": "Kiana",
+  "codeName": "Kiana",
   "rank": 5,
   "type": "hg",
   "illust": "水乌龟",
@@ -8628,11 +8628,11 @@
       "IC": 6
     }
   },
-  "krName": "키아나 카스라나",
+  "name": "키아나 카스라나",
   "grow": 104
 }, {
   "id": 1004,
-  "name": "RaidenMei",
+  "codeName": "RaidenMei",
   "rank": 5,
   "type": "rf",
   "illust": "NIN",
@@ -8668,11 +8668,11 @@
       "IC": 6
     }
   },
-  "krName": "라이덴 메이",
+  "name": "라이덴 메이",
   "grow": 120
 }, {
   "id": 1005,
-  "name": "Bronya",
+  "codeName": "Bronya",
   "rank": 5,
   "type": "rf",
   "illust": "水熊",
@@ -8708,11 +8708,11 @@
       "IC": 6
     }
   },
-  "krName": "브로냐 자이칙",
+  "name": "브로냐 자이칙",
   "grow": 120
 }, {
   "id": 1006,
-  "name": "Theresa",
+  "codeName": "Theresa",
   "rank": 5,
   "type": "hg",
   "illust": "咩爆",
@@ -8750,11 +8750,11 @@
       "IC": 1
     }
   },
-  "krName": "테레사 아포칼립스",
+  "name": "테레사 아포칼립스",
   "grow": 104
 }, {
   "id": 1007,
-  "name": "Himeko",
+  "codeName": "Himeko",
   "rank": 5,
   "type": "ar",
   "illust": "DOGALA",
@@ -8793,11 +8793,11 @@
       "IC": 1
     }
   },
-  "krName": "무라타 히메코",
+  "name": "무라타 히메코",
   "grow": 122
 }, {
   "id": 1008,
-  "name": "Seele",
+  "codeName": "Seele",
   "rank": 5,
   "type": "sg",
   "illust": "DOGALA",
@@ -8832,11 +8832,11 @@
       "DM": [150, 170, 180, 200, 220, 230, 250, 270, 280, 300]
     }
   },
-  "krName": "제레 발레리",
+  "name": "제레 발레리",
   "grow": 90
 }, {
   "id": 1009,
-  "name": "CLEAR",
+  "codeName": "CLEAR",
   "type": "hg",
   "rank": 5,
   "stats": {
@@ -8860,7 +8860,7 @@
       "IC": 6
     }
   },
-  "krName": "클리어",
+  "name": "클리어",
   "grow": 140,
   "effect": {
     "effectType": "all",
@@ -8873,7 +8873,7 @@
   }
 }, {
   "id": 1010,
-  "name": "FAIL",
+  "codeName": "FAIL",
   "type": "hg",
   "rank": 5,
   "stats": {
@@ -8897,7 +8897,7 @@
       "IC": 6
     }
   },
-  "krName": "페일",
+  "name": "페일",
   "grow": 140,
   "effect": {
     "effectType": "all",
@@ -8910,7 +8910,7 @@
   }
 }, {
   "id": 20002,
-  "name": "M1911Mod",
+  "codeName": "M1911Mod",
   "type": "hg",
   "rank": 4,
   "stats": {
@@ -8951,7 +8951,7 @@
   "grow": 120
 }, {
   "id": 20005,
-  "name": "M1895Mod",
+  "codeName": "M1895Mod",
   "type": "hg",
   "rank": 4,
   "stats": {
@@ -8998,7 +8998,7 @@
   "grow": 130
 }, {
   "id": 20039,
-  "name": "M1891Mod",
+  "codeName": "M1891Mod",
   "type": "rf",
   "rank": 5,
   "stats": {
@@ -9037,7 +9037,7 @@
   "grow": 130
 }, {
   "id": 20051,
-  "name": "FN49Mod",
+  "codeName": "FN49Mod",
   "type": "rf",
   "rank": 4,
   "stats": {
@@ -9077,7 +9077,7 @@
   "grow": 115
 }, {
   "id": 20055,
-  "name": "M4A1Mod",
+  "codeName": "M4A1Mod",
   "type": "ar",
   "rank": 5,
   "stats": {
@@ -9118,7 +9118,7 @@
   "grow": 115
 }, {
   "id": 20057,
-  "name": "AR15Mod",
+  "codeName": "AR15Mod",
   "type": "ar",
   "rank": 5,
   "stats": {
@@ -9159,7 +9159,7 @@
   "grow": 120
 }, {
   "id": 20075,
-  "name": "M1918Mod",
+  "codeName": "M1918Mod",
   "type": "mg",
   "rank": 5,
   "stats": {
@@ -9201,7 +9201,7 @@
   "grow": 125
 }, {
   "id": 20091,
-  "name": "MP446Mod",
+  "codeName": "MP446Mod",
   "type": "hg",
   "rank": 4,
   "stats": {
@@ -9241,7 +9241,7 @@
   "grow": 120
 }, {
   "id": 20093,
-  "name": "IDWMod",
+  "codeName": "IDWMod",
   "type": "smg",
   "rank": 4,
   "stats": {
@@ -9283,7 +9283,7 @@
   "grow": 130
 }, {
   "id": 20094,
-  "name": "64typeMod",
+  "codeName": "64typeMod",
   "type": "smg",
   "rank": 4,
   "stats": {
