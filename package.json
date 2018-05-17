@@ -8,7 +8,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "rimraf dist && babel src --presets=stage-1 --out-dir dist --ignore **/*.spec.js",
+    "create-i18n": "node ./dist/tools/create-i18n",
+    "build": "rimraf ./dist && babel ./src --presets=stage-1 --out-dir ./dist --ignore **/*.spec.js",
     "prepublish": "npm run build",
     "precommit": "lint-staged && npm run prepublish",
     "test": "jest"
