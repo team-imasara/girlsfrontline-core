@@ -1,5 +1,3 @@
-src
-
 .gitattributes
 .editorconfig
 .babelrc
@@ -8,6 +6,5 @@ src
 .travis.yml
 
 data/raw
-src/parser
-parser
-tools
+src
+dist/tools
